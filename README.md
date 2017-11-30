@@ -7,9 +7,10 @@ Our wordpress stack for modern web development
 * wordmove
 * ssh
 * github/bitbucket
+* git hooks
 * phpstorm
 * sublime/visualstudio/atom
-* photoshop/xd/sketch/dropbox
+* photoshop/xd/sketch/dropbox/avocode
 
 ## Wordpress stack
 * bedrock
@@ -18,11 +19,13 @@ Our wordpress stack for modern web development
 * themosis
 * carbon-fields
 * tgm
-* wp-cli
-* codex
 * custom theme development
 * plugins development
 * woocommerce
+* wpml
+* multisite
+* wp-cli
+* codex
 * optimization and seo optimization
 
 ## Backend
@@ -37,6 +40,7 @@ Our wordpress stack for modern web development
 * mysql
 * oop/mvc
 * rest
+* code sniffer
 
 ## Frontend
 * laravel-mix
