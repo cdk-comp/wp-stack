@@ -74,6 +74,19 @@ Our wordpress stack for modern web development
 * smtp/spf/dkim
 * http/2
 
+## Design
+* web design
+* ux/ux for e-commerce
+* typography
+* logos
+* color pallets
+* graphic elements
+* brochure
+* mockups
+* principle
+* styleguide
+* photoshop/illustrator/xd/sketch/indesign
+
 ## Management
 * trello
 * github/bitbucket issues
