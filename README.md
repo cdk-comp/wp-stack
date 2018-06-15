@@ -3,7 +3,7 @@ Our wordpress stack for modern web development
 
 ## Workflow
 * vagrant
-* easyengine
+* easyengine/serverpilot/runcloud/moss/lemp/trellis
 * wordmove
 * ssh
 * github/bitbucket
@@ -17,10 +17,10 @@ Our wordpress stack for modern web development
 * sage
 * typerocket
 * themosis
-* carbon-fields
-* tgm
+* carbon-fields/ultimate fields/acf/metabox/tgm
 * custom theme development
 * plugins development
+* builder modules/widgets development for Divi/Elementor
 * woocommerce
 * wpml
 * multisite
@@ -41,6 +41,7 @@ Our wordpress stack for modern web development
 * oop/mvc
 * rest
 * code sniffer
+* crm/erp/marketing integrations
 
 ## Frontend
 * laravel-mix
@@ -61,6 +62,7 @@ Our wordpress stack for modern web development
 * pixel perfect
 * jslint/jshint
 * css lint
+* tracking optimization
 
 ## Server management/Devops
 * linux
@@ -77,6 +79,7 @@ Our wordpress stack for modern web development
 * dns
 * smtp/spf/dkim
 * http/2
+* automation/migration/sync
 
 ## Design
 * web design
@@ -94,7 +97,7 @@ Our wordpress stack for modern web development
 ## Management
 * trello
 * github/bitbucket issues
-* toggl
+* toggl/teamweek
 * kanban
 * sprints
 * discord/stride/slack/skype/whatsapp/telegram
