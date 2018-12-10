@@ -3,6 +3,7 @@ Our wordpress stack for modern web development
 
 ## Workflow
 * vagrant
+* docker
 * easyengine/serverpilot/runcloud/moss/lemp/trellis
 * wordmove
 * ssh
@@ -27,6 +28,8 @@ Our wordpress stack for modern web development
 * wp-cli
 * codex
 * optimization and seo optimization
+* aggressive Elementor design and development
+* lighthouse optimization
 
 ## Backend
 * php
@@ -75,11 +78,13 @@ Our wordpress stack for modern web development
 * ssl
 * pipeline/trevis
 * ci/cd
+* atomic deployment
 * automatization 
 * dns
 * smtp/spf/dkim
 * http/2
 * automation/migration/sync
+* Shell wrappers for API's
 
 ## Design
 * web design
@@ -96,6 +101,8 @@ Our wordpress stack for modern web development
 
 ## Management
 * trello
+* monday
+* jira
 * github/bitbucket issues
 * toggl/teamweek
 * kanban
