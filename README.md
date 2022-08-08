@@ -2,23 +2,26 @@
 Our wordpress stack for modern web development
 
 ## Workflow
+* apache on macos
 * vagrant
 * localwp
 * docker
-* easyengine/serverpilot/runcloud/moss/lemp/trellis
-* wordmove/atomic
+* easyengine/serverpilot/runcloud/moss/lemp/trellis/ploi
+* wordmove/atomic/wpi
 * ssh
-* github/bitbucket
+* github/bitbucket/gitlab
 * git hooks
 * phpstorm
 * sublime/visualstudio/atom
 * photoshop/xd/sketch/dropbox/avocode
 
 ## Wordpress stack
+* wpi
 * bedrock
 * sage
 * typerocket
 * themosis
+* acf and acf_wpi
 * carbon-fields/ultimate fields/acf/metabox/tgm
 * custom theme development
 * plugins development
@@ -72,6 +75,7 @@ Our wordpress stack for modern web development
 * tracking optimization
 
 ## Server management/Devops
+* macos
 * linux
 * cli
 * cron
